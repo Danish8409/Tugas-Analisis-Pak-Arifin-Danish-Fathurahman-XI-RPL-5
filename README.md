@@ -1,6 +1,6 @@
-Fadhil Hilmi M.P 11
-dan 
-Ahmad Adly Maulana 02
+Danish Fathurahman
+dan
+Abdurrosyid Iman Taqkamil
 tugas kelompok [KELOMPOK](./kelompok.py)
 
 
